@@ -1,0 +1,7 @@
+{
+  "name": "vmpublishing/vm_wordpress_rest_posts_meta_sort",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
